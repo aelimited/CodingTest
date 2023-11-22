@@ -1,4 +1,4 @@
-package part3;
+package JavaTest;
 
 public class StringMul {
     public static void main(String[] args) {
