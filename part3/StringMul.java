@@ -9,6 +9,7 @@ public class StringMul {
     }
     public static String sloution(String my_String, int k){
         String answer = "";
+
         for(int i=0;i<k;i++) {
             answer += my_String;
         }
