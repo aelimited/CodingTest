@@ -1,0 +1,26 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8òÑ®ËÎ1
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8×Ş°ËÎ1
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ8×Ş°ËÎ1
+t	java:S127!"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8×Ş°ËÎ1
+t	java:S127)"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8×Ş°ËÎ1
+t	java:S1271"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8×Ş°ËÎ1
+t	java:S1279"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ØŞ°ËÎ1
+t	java:S127A"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ØŞ°ËÎ1
+Q
+java:S1066"/Merge this if statement with the enclosing one.(ÆïÅÿÿÿÿÿ8ôÑ®ËÎ1
+Q
+java:S1066("/Merge this if statement with the enclosing one.(¥±Êøÿÿÿÿ8ôÑ®ËÎ1
+Q
+java:S10660"/Merge this if statement with the enclosing one.(¥±Êøÿÿÿÿ8ØŞ°ËÎ1
+Q
+java:S10668"/Merge this if statement with the enclosing one.(ÎœÖğıÿÿÿÿ8ØŞ°ËÎ1
+Q
+java:S1066?"/Merge this if statement with the enclosing one.(ö€ØÌøÿÿÿÿ8ØŞ°ËÎ1
+Q
+java:S1066@"/Merge this if statement with the enclosing one.(ÎœÖğıÿÿÿÿ8ØŞ°ËÎ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Çµí‘8İŞ°ËÎ1
+n
+java:S1871"LThis branch's code block is the same as the block for the branch on line 15.(ø‡ï½øÿÿÿÿ8áŞ°ËÎ1
+G	java:S106H"+Replace this use of System.out by a logger.(®õã‚8åŞ°ËÎ1
